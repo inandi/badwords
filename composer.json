@@ -1,5 +1,5 @@
 {
-    "name": "inandi/badwords",
+    "name": "buchin/badwords",
     "description": "Badwords filter in PHP",
     "type": "library",
     "license": "MIT",
